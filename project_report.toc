@@ -1,0 +1,17 @@
+\contentsline {chapter}{Abstract}{3}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{4}{}%
+\contentsline {chapter}{\numberline {2}Encoder}{6}{}%
+\contentsline {section}{\numberline {2.1}Code Construction}{6}{}%
+\contentsline {section}{\numberline {2.2}Dual Diagonal Encoding}{7}{}%
+\contentsline {chapter}{\numberline {3}Channels}{9}{}%
+\contentsline {section}{\numberline {3.1}BPSK over BI-AWGNC}{9}{}%
+\contentsline {chapter}{\numberline {4}LDPC Decoding}{10}{}%
+\contentsline {section}{\numberline {4.1}Log Sum Product Algorithm}{10}{}%
+\contentsline {section}{\numberline {4.2}Minsum Algorithm}{12}{}%
+\contentsline {chapter}{\numberline {5}Results and Discussion}{14}{}%
+\contentsline {section}{\numberline {5.1}BER Performance}{14}{}%
+\contentsline {section}{\numberline {5.2}BER Performance of Minsum vs Log SPA}{15}{}%
+\contentsline {section}{\numberline {5.3}Complexity analysis}{16}{}%
+\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{17}{}%
+\contentsline {chapter}{\numberline {A}Monte Carlo Methods and Useful Statistics}{18}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
